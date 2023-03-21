@@ -8,8 +8,8 @@ Then you can see with yout html viewer.
 
 2. Click the view raw
 
-3. ![image](https://user-images.githubusercontent.com/101182303/226657569-c8eef549-fd17-4a87-8394-343cd05b9f11.png)
-click this raw button
+![image](https://user-images.githubusercontent.com/101182303/226657569-c8eef549-fd17-4a87-8394-343cd05b9f11.png)
+3. click this raw button
 
 or
 

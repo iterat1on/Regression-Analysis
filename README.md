@@ -7,11 +7,15 @@ Then you can see with yout html viewer.
 
 
 2. Click the view raw
+
 3. ![image](https://user-images.githubusercontent.com/101182303/226657569-c8eef549-fd17-4a87-8394-343cd05b9f11.png)
 click this raw button
+
 or
+
 ![image](https://user-images.githubusercontent.com/101182303/226657923-bf467f05-0ffa-410a-84e9-f8455d32246d.png)
 click this raw button
+
 
 3. Right click and click the save as ~(Ctrl + s / cmd +s)
 ![image](https://user-images.githubusercontent.com/101182303/226658217-d8f3aaf3-0ed7-49a8-bb87-79df29729858.png)
